@@ -1,0 +1,28 @@
+{
+    "description": "Created by using https://wishlists.littlelight.club/",
+    "name": "my own",
+    "data": [
+        {
+            "description": "from IFrostBolt",
+            "hash": 1403800851,
+            "name": "Great for pvp",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        }
+    ]
+}
