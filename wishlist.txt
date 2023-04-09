@@ -1,6 +1,18 @@
 title:my own
 description:Created by using https://wishlists.littlelight.club/
 
+// The Wizened Rebuke - fire from hip (pvp)
+//notes: youtube.com/watch?v=jqcypPN8E0k tags:pvp
+dimwishlist:item=2290416&perks=2416023159,2652708987
+dimwishlist:item=2290416&perks=2416023159,1600092898
+
+
+// The Wizened Rebuke - is ok (pvp)
+//notes: youtube.com/watch?v=jqcypPN8E0k tags:pvp
+dimwishlist:item=2290416&perks=1645158859,2213355989
+dimwishlist:item=2290416&perks=1645158859,1600092898
+
+
 // Jorum's Claw - Crucible (pvp)
 //notes: worth to try tags:pvp
 dimwishlist:item=62937067&perks=11551321,460017080
@@ -14,6 +26,11 @@ dimwishlist:item=62937067&perks=1365187766,460017080
 // Jorum's Claw - Crucible (pvp)
 //notes: IFrostBolt tags:pvp
 dimwishlist:item=62937067&perks=1168162263,1015611457
+
+
+// Jorum's Claw - isok (pvp)
+//notes: youtube.com/watch?v=jqcypPN8E0k tags:pvp
+dimwishlist:item=62937067&perks=1195158366,2610012052
 
 
 // Last Perdition - Nice one (pvp)
@@ -57,6 +74,11 @@ dimwishlist:item=882778888&perks=706527188,2846385770,862848869
 //notes: youtube.com/watch?v=0-qITVxt_mQ tags:pvp
 dimwishlist:item=933455006&perks=1467527085,2969185026,2450788523,2213355989
 dimwishlist:item=933455006&perks=1467527085,2969185026,3511092054,2213355989
+
+
+// The Hero's Burden - volatile rounds (pve)
+//notes: youtube.com/watch?v=jqcypPN8E0k tags:pve
+dimwishlist:item=1028124540&perks=2779035018,2048641572
 
 
 // Iterative Loop - to debuff enemies, do craft (pve)
