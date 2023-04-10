@@ -50,6 +50,23 @@ dimwishlist:item=253196586&perks=280464955,1890422124
 dimwishlist:item=253196586&perks=1645158859,2846385770
 
 
+// Regnant - can craft (pve)
+//notes: tags:pve
+dimwishlist:item=268260372&perks=3798852852,3301904089,3300816228,2048641572
+
+
+// Prodigal Return - blind em all (pve)
+//notes: tags:pve
+dimwishlist:item=268260373&perks=3032599245,968510818,3523296417
+dimwishlist:item=268260373&perks=3032599245,968510818,438098033
+dimwishlist:item=268260373&perks=3032599245,968510818,960810156
+
+
+// Prodigal Return - not a great option but worth trying (pve)
+//notes: tags:pve
+dimwishlist:item=268260373&perks=1556840489,2173046394
+
+
 // Ignition Code - no way it will drop (pve)
 //notes: tags:pve
 dimwishlist:item=304659313&perks=3032599245,3161816588
